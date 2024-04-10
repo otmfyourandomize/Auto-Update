@@ -1,0 +1,7 @@
+--[[
+
+[MADE BY shaking_face]
+
+]]--
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/otmfyourandomize/Auto-Update/main/Auto"))()
